@@ -1,0 +1,9 @@
+***lembrar de atualizar promise-mysql to @3.3.1
+
+Para iniciar: 
+cd server
+npm run build
+npm run dev
+
+cd client
+ng s -o
